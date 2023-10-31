@@ -16,7 +16,7 @@ Execute your automated test across 3000 + browsers, devices and platform.
 
 ## Getting Started
 
-[Create Your Own LambdatTest Account](https://www.lambdatest.com/register?utm_source=YouTube&utm_medium=Organic&utm_campaign=Oct30&utm_term=mo&utm_content=LT_Sign_Up)
+[Create Your Own LambdatTest Account]([https://www.lambdatest.com/register?utm_source=YouTube&utm_medium=Organic&utm_campaign=Oct30&utm_term=mo&utm_content=LT_Sign_Up](https://accounts.lambdatest.com/register?utm_source=YouTube&utm_medium=Organic&utm_campaign=Oct30&utm_term=mo&utm_content=LT_Sign_Up))
 
 [Clone This Repository](https://github.com/Mukesh-50/automation-testing-on-cloud-demo.git)
 
