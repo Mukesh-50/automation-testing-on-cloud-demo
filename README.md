@@ -21,7 +21,7 @@ Execute your automated test across 3000 + browsers, devices and platform.
 [Clone This Repository](https://github.com/Mukesh-50/HybridFrameworkMarch2023)
 
 ```
-git clone 
+git clone https://github.com/Mukesh-50/SeleniumWithLambdaTest
 ```
 
 
