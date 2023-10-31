@@ -18,10 +18,12 @@ Execute your automated test across 3000 + browsers, devices and platform.
 
 [Create Your Own LambdatTest Account](https://www.lambdatest.com/register?utm_source=YouTube&utm_medium=Organic&utm_campaign=Oct30&utm_term=mo&utm_content=LT_Sign_Up)
 
-[Clone This Repository](https://github.com/Mukesh-50/HybridFrameworkMarch2023)
+[Clone This Repository](https://github.com/Mukesh-50/automation-testing-on-cloud-demo.git)
+
+[Capability Generator](https://www.lambdatest.com/capabilities-generator/)
 
 ```
-git clone https://github.com/Mukesh-50/SeleniumWithLambdaTest
+git clone https://github.com/Mukesh-50/automation-testing-on-cloud-demo.git
 ```
 
 
